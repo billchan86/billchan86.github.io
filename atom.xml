@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://billchan86.github.io/"/>
-  <updated>2016-03-23T16:33:30.796Z</updated>
+  <updated>2016-03-24T07:11:20.000Z</updated>
   <id>http://billchan86.github.io/</id>
   
   <author>
@@ -16,18 +16,18 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello Blog</title>
-    <link href="http://billchan86.github.io/2016/03/23/hello-blog/"/>
-    <id>http://billchan86.github.io/2016/03/23/hello-blog/</id>
-    <published>2016-03-23T11:45:16.287Z</published>
-    <updated>2016-03-23T16:33:30.796Z</updated>
+    <title>Hello, Blog!</title>
+    <link href="http://billchan86.github.io/2016/03/23/Hello-Blog/"/>
+    <id>http://billchan86.github.io/2016/03/23/Hello-Blog/</id>
+    <published>2016-03-23T02:51:33.000Z</published>
+    <updated>2016-03-24T07:11:20.000Z</updated>
     
-    <content type="html">&lt;p&gt;开始尝试使用 Markdown 来写博客了。&lt;/p&gt;
+    <content type="html">&lt;p&gt;开始尝试使用 Markdown 来写博客啦～&lt;/p&gt;
 </content>
     
     <summary type="html">
     
-      &lt;p&gt;开始尝试使用 Markdown 来写博客了。&lt;/p&gt;
+      &lt;p&gt;开始尝试使用 Markdown 来写博客啦～&lt;/p&gt;
 
     
     </summary>
